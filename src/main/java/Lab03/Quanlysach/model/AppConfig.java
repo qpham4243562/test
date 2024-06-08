@@ -17,7 +17,7 @@ public class AppConfig {
 
         //tạo sách bằng cách sử dụng Setter - NoArgsContructor Loobok
         Book book1 = new Book();
-        book1.setId(1);
+        book1.setId(12);
         book1.setTitle("Clean Code");
         book1.setAuthor("Robert C.Martin");
         book1.setPrice(47.0);
